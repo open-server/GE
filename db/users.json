@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5b5fe33efd3acd08eed8d26a"},"username":"admin","password":"admin123","name":"Administrator","surname":"Administrator","email":"admin@ge.com","role":"ADMIN","phone":"987897781","birthdate":{"$date":{"$numberLong":"568011600000"}},"nationality":"Perú","languaje":"Español","image":""}
